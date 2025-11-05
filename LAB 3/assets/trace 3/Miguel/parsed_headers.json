@@ -1,0 +1,15 @@
+{
+  "X-Pm-Content-Encryption": "end-to-end",
+  "X-Pm-Origin": "internal",
+  "Subject": " Urgent: Immediate Action Required – Credential Revocation and Token Update",
+  "To": "adelino.estoiro@proton.me <adelino.estoiro@proton.me>",
+  "From": "paulo.r.parquimetro@proton.me",
+  "Date": "Tue, 07 Oct 2025 20:11:44 +0000",
+  "Mime-Version": "1.0",
+  "Content-Type": "text/html",
+  "X-Attached": "token_update.zip",
+  "Message-Id": "<yiqYTj-eNpDsxqB5e4pAzUAoI9AAL0BKc3ASl9NlS7pvjHU7kKzBDGq3ikywZzYebTC8PFXiZos-CmuVHNGyfYisqOuX1UanVX2uiRx04Nw=@proton.me>",
+  "X-Pm-Scheduled-Sent-Original-Time": "Tue, 07 Oct 2025 20:11:32 +0000",
+  "X-Pm-Recipient-Authentication": "adelino.estoiro%40proton.me=pgp-pm",
+  "X-Pm-Recipient-Encryption": "adelino.estoiro%40proton.me=pgp-pm"
+}

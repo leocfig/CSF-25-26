@@ -1,0 +1,18 @@
+=== MESSAGE SUMMARY ===
+ID: YJzaub7NOBga0VSZI4-cTheyF7fQ7u1q9TtkchydMYiE5JTKEH4iqwEaZgrh0OIUh4w7RVrlFlpr-KUaVXeueQ==
+Subject:  Urgent: Immediate Action Required – Credential Revocation and Token Update
+Time (timestamp): 1759867904
+Time (UTC)    : 2025-10-07T20:11:44+00:00
+Time (Europe/Lisbon): 2025-10-07T21:11:44+01:00
+SenderAddress: paulo.r.parquimetro@proton.me
+To: adelino.estoiro@proton.me
+IsEncrypted: True
+NumAttachments: 1
+Size (bytes): 3870
+
+Saved PGP body to: phishing_email_Miguel/message.pgp.asc
+Saved parsed headers to: phishing_email_Miguel/parsed_headers.json
+Saved attachments metadata to: phishing_email_Miguel/attachments.json
+
+Attachments:
+ - Name: token_update.zip Size: 2067 MIME: application/zip ID: M3v36GkZ6uKFCZSG_4Mx9t6pHEfDXl6Q0VLp4yCY6Q8FVzcf5pnwRRrR2hj-ksjZL3503n6HEvpBwjAv8TBTZg==

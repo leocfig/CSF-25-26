@@ -1,0 +1,40 @@
+rm TouristThreads.png
+rm -rf HideFiles/
+rm ~/Pictures/RaceCar.png
+rm .gitkeep
+deactivate
+keepassxc &
+ILoveMyMomTheQueen
+code ~/Documents/ZYRA
+try {
+const url = `http://zyra.csf.syssec.dpss.inesc-id.pt/login`;
+const qr = await QR.toDataURL(url);
+res.send(`<img src=”${qr}”>`);
+} catch (err) {
+	res.status(500).send("Erro a gerar QR code");
+}
+CTRL+S
+CTRL+V
+ls -l
+git add -all
+git commit -m “finally finished”
+git push
+Musky Boi[enter]
+CTRL+SHIFT+V
+cd ~/scripts{^Tab}
+chmod +x dep{^Tab} (deploy.sh)
+./deploy.sh
+CTRL+C
+irssi
+/connect irc.freenode.net
+/join #thebasement
+Cat Cat, All is ready!Don’t you worry, everything is secured and deployed, ZYRA is gonna suffer now.
+Got it! Thank u.
+/quit
+cd ~/Documents
+sudo apt install secure-delete
+squidGamer
+srm -r *
+cd ..
+ls -l
+srm zyra.zip
